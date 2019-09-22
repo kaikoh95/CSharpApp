@@ -1,1 +1,2 @@
-Project built while tinkering with Visual Studio and C#.
+# Work In Progress
+Project built while tinkering with Visual Studio and C#. 
