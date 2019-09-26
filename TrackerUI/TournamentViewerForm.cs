@@ -31,5 +31,10 @@ namespace TrackerUI
         {
 
         }
+
+        private void RoundComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
